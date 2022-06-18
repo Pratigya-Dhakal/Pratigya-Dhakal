@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratigya Dhakal</h1>
 <h3 align="center">A undergraduate student at GCES</h3>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **node.js** and **flutter**
 
 - 📫 How to reach me **pratigyadhakal4444@gmail.com**
 
