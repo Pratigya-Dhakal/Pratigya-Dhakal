@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratigya Dhakal</h1>
 <h3 align="center">A undergraduate student at GCES</h3>
-<h2 align="center"Developing fluency in Flutter</h2>
+<h2 align="center">Developing fluency in Flutter</h2>
 <h6 align="center">📫 How to reach me "pratigyadhakal4444@gmail.com"</h6>
 
 <h3 align="center">Languages and Tools:</h3>
