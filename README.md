@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratigya Dhakal</h1>
-<h3 align="center">A undergraduate student at GCES</h3>
+<h3 align="center"> Student at GCES</h3>
 <h4 align="center">Developing fluency in Node js</h4>
 <h6 align="center">📫 How to reach me "pratigyadhakal4444@gmail.com"</h6>
 
