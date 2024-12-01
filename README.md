@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratigya Dhakal</h1>
 <h4 align="center"> www.pratigyadhakal.com.np || https://pratigya-dhakal4.onrender.com/</h4>
-<h4 align="center">Developing fluency in MERN STACK</h4>
 <h6 align="center">📫 How to reach me "pratigyadhakal4444@gmail.com"</h6>
 
 <h3 align="center">Languages and Tools:</h3>
